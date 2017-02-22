@@ -8,7 +8,7 @@ Kinvey menyediakan layanan instan API yang bisa digunakan untuk membuat aplikasi
 5. Mengubah data Pasien
 6. Unggah file.
 
-Catatan: untuk unggah file masih belum bekerja karena mungkin saya melewatkan sesuatu saat mengupload ke Google Cloud Service.
+Catatan: untuk unggah file masih belum bekerja karena mungkin saya melewatkan sesuatu saat mengupload ke Google Cloud Service. Kami akan sangat menghargai `pull-request` untuk membuat upload file ini berjalan dengan semestinya ^_^
 
 ### ToDo
 
